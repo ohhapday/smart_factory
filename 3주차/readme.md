@@ -12,13 +12,6 @@ SCADA급 | 휴먼   | 감시 제어 및 **데이터** 취득  | SCADA, DCS
 PLC급 | 머신     | 자동제어 및 감시  | PLC, DCS  
 Sensors급 | 머신 | 외부상태 수집  | Sensors, Hardware  
 
-LEVEL  | 영역     | 정의 | 시스템
-------| ------- | ----| ----- :
-ERP급 | 휴먼     | **전사적** 자원 관리   |  ERP, SAP
-MES급 | 휴먼     | 통합 **생산관리** 시스템   |  MES, LIMS
-SCADA급 | 휴먼   | 감시 제어 및 **데이터** 취득  | SCADA, DCS
-PLC급 | 머신     | 자동제어 및 감시  | PLC, DCS  
-Sensors급 | 머신 | 외부상태 수집  | Sensors, Hardware  
 * HMI: Human-Machine Interface
   ![aa](http://www.addixa.net/wp-content/uploads/2012/11/Piramide_Ingles.png)
 
