@@ -44,7 +44,7 @@ Sensors급 | 머신 | 외부상태 수집  | Sensors, Hardware
 
 #### 1. 구현 정도
 기초  | 중간1     | 중간2 | 고도화
-------| ------- | ----| -----
+------| ------- | ----| -----:
 SCADA급 | SCADA급 | MES급   |  ERP급
 ![스마트 팩토리 구현 정도](https://cdn.steemitimages.com/0x0/https://steemitimages.com/DQmeCadUKFHHDNZYEmzjGGFSJK6tacecqoFSWCGyByxGN5a/%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EA%B3%B5%EC%9E%A5%20%EA%B5%AC%ED%98%84%20%EC%A0%95%EB%8F%84%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B3%B5%EC%9E%A5%EC%B6%94%EC%A7%84%EB%8B%A8%20%EA%B8%B0%EC%A4%80%20%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EC%9E%90%EC%9B%90%EB%B6%80.png)
 
