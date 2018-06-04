@@ -5,12 +5,12 @@
   - 제어 시스템과 다른 정보기술을 조화롭게 사용하여 산업 기계류와 공정을 제어, 사람이 관여할 필요를 줄이는 것이다.
 #### 2. 자동화 규모
 LEVEL  | 영역     | 정의 | 시스템 |
-------| ------- | ----| ----- | ----| ---:
-ERP급 | 휴먼     | **전사**적 자원 관리   |  ERP, SAP | 상 | 하
-MES급 | 휴먼     | 통합 **생산관리** 시스템   |  MES, LIMS | 중 | 중
-SCADA급 | 휴먼   | 감시 제어 및 **데이터** 취득  | SCADA, DCS  | 하 | 상
-PLC급 | 머신     | 자동제어 및 감시  | PLC, DCS  | 하 | 상
-Sensors급 | 머신 | 외부상태 수집  | Sensors, Hardware  | 하 | 상
+------| ------- | ----| ----- :
+ERP급 | 휴먼     | **전사**적 자원 관리   |  ERP, SAP
+MES급 | 휴먼     | 통합 **생산관리** 시스템   |  MES, LIMS
+SCADA급 | 휴먼   | 감시 제어 및 **데이터** 취득  | SCADA, DCS
+PLC급 | 머신     | 자동제어 및 감시  | PLC, DCS  
+Sensors급 | 머신 | 외부상태 수집  | Sensors, Hardware  
 * HMI: Human-Machine Interface
   ![aa](http://www.addixa.net/wp-content/uploads/2012/11/Piramide_Ingles.png)
 
@@ -52,7 +52,7 @@ SCADA급 | SCADA급 | MES급   |  ERP급 | ERP급 |
 ![스마트 팩토리 수준 총괄도](https://steemitimages.com/DQmTVP51VrxxLSv2pfDSg4owPJYkvTYZAfr6KFT6in7GDwe/%EC%8A%A4%EB%A7%88%ED%8A%B8%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%8B%A8%EA%B3%84%EB%B3%84%20%EC%88%98%EC%A4%80%20%EC%B4%9D%EA%B4%84%EB%8F%84.png)
 
 #### 3. 삼성 맞춤형 지원 프로그램
-[삼성전자 경북](https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EB%8C%80%EA%B5%AC%EA%B2%BD%EB%B6%81-%EA%B2%BD%EC%A0%9C%EC%97%90-%EB%8F%9B-%EB%8B%AC%EB%8B%A4-%EC%A0%9C%EC%A1%B0-%ED%98%81%EC%8B%A0%EC%9C%BC%EB%A1%9C-%EC%B0%BD): 구미공단 대상 
+[삼성전자 경북](https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EB%8C%80%EA%B5%AC%EA%B2%BD%EB%B6%81-%EA%B2%BD%EC%A0%9C%EC%97%90-%EB%8F%9B-%EB%8B%AC%EB%8B%A4-%EC%A0%9C%EC%A1%B0-%ED%98%81%EC%8B%A0%EC%9C%BC%EB%A1%9C-%EC%B0%BD): 구미공단 대상
 ![삼성 맞춤형 지원 프로그램](https://news.samsung.com/kr/wp-content/uploads/2015/08/%EA%B2%BD%EB%B6%81%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%AC_%ED%91%9C1.jpg)
 
 ## 참고자료
