@@ -47,20 +47,41 @@ Sensors급 | 머신 | 외부상태 수집  | Sensors, Hardware
 
 ## 국내 스마트 팩토리 현황
 
-#### 1. 구현 정도
+#### 1. 구현 현황
 기초  | 중간1     | 중간2 | 고도화
 ------| ------- | ----| -----:
 SCADA급 | SCADA급 | MES급   |  ERP급
 
 ![스마트 팩토리 구현 정도](https://cdn.steemitimages.com/0x0/https://steemitimages.com/DQmeCadUKFHHDNZYEmzjGGFSJK6tacecqoFSWCGyByxGN5a/%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EA%B3%B5%EC%9E%A5%20%EA%B5%AC%ED%98%84%20%EC%A0%95%EB%8F%84%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B3%B5%EC%9E%A5%EC%B6%94%EC%A7%84%EB%8B%A8%20%EA%B8%B0%EC%A4%80%20%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EC%9E%90%EC%9B%90%EB%B6%80.png)
 
-#### 2. 수준 총괄
+#### 2. 분류 사례
 산업통상 자원부 [링크](https://steemit.com/kr/@clutho/gj5bz-smart-factory)
 ![스마트 팩토리 수준 총괄도](https://steemitimages.com/DQmTVP51VrxxLSv2pfDSg4owPJYkvTYZAfr6KFT6in7GDwe/%EC%8A%A4%EB%A7%88%ED%8A%B8%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%8B%A8%EA%B3%84%EB%B3%84%20%EC%88%98%EC%A4%80%20%EC%B4%9D%EA%B4%84%EB%8F%84.png)
 
 #### 3. 삼성 맞춤형 지원 프로그램
 [삼성전자 경북](https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EB%8C%80%EA%B5%AC%EA%B2%BD%EB%B6%81-%EA%B2%BD%EC%A0%9C%EC%97%90-%EB%8F%9B-%EB%8B%AC%EB%8B%A4-%EC%A0%9C%EC%A1%B0-%ED%98%81%EC%8B%A0%EC%9C%BC%EB%A1%9C-%EC%B0%BD): 구미공단 대상
 ![삼성 맞춤형 지원 프로그램](https://news.samsung.com/kr/wp-content/uploads/2015/08/%EA%B2%BD%EB%B6%81%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%AC_%ED%91%9C1.jpg)
+
+## 도출 제안
+#### 1. 스마트 팩토리 정의
+  - 팩토리보다 상위의 개념 필요
+    - 아마존 무인 편의점
+    - 유통물품의 초이력
+  - 외부 마케팅 용어로써의 "스마트 팩토리"
+  - 사내 내부적으로 새로운 용어 필요
+
+#### 2. 분류 쳬계 정의
+  1. 카스 분류 체계 정의
+  2. 누구나 납득할 수 있는
+  3. 카스가 주도하는 한국형 스마트 팩토리 분류 체계로 홍보
+
+#### 3. 영업사례
+  - 분류체계에 따른 영업사례의 수집
+  - 홈페이지등 스마트팩토리 상담창구 마련
+  - 뉴스, 홍보, 판촉 계획 산출
+
+#### 4. 
+
 
 ## 참고자료
 [LG CNS 자료](http://blog.lgcns.com/723)
