@@ -101,3 +101,4 @@ SCADA급 | SCADA급 | MES급   |  ERP급
 
 ## 참고자료
 [LG CNS 자료](http://blog.lgcns.com/723)
+[어드벤텍](http://select.advantech.com/%EC%96%B4%EB%93%9C%EB%B0%B4%ED%85%8D-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%AC-%EC%86%94%EB%A3%A8%EC%85%98/)
